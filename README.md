@@ -25,5 +25,5 @@ This repository is my learning playground for **GitHub Actions**, where I explor
 
 ---
 
-Feel free to explore, experiment, and learn! 😊
+Feel free to explore, experiment, and learn! 
 
